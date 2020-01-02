@@ -27,6 +27,12 @@ As it is my first time to work on sattelite images I will be breaking it down an
 - [ ] Get satelltie images for given lat long
 - [ ] From the Punjab government data extract all brick kilns images and store it  
 - [ ] Manually clean the images and Build a classifier  
-- [ ] Algorithm to scan area and find brick kilns  
+- [ ] Algorithm to scan area and find brick kilns   
 
-I will keep on adding more things to it. If you would like to contribute to this do send me an email at me@hamzaafridi.com  
+## Research   
+# Google Earth Engine  
+It is not an free tool. In order to use I need to signup which I have and will wait for google reply.  
+# Sentinel Hub  
+As Abid suggested I was looking at Sentinal Hub which has a neat library in PYTHON but turns out it is commercial and not for everyday use.  
+
+I will keep on adding more things to it. If you would like to contribute to this do send me an email at me@hamzaafridi.com
