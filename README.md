@@ -34,5 +34,7 @@ As it is my first time to work on sattelite images I will be breaking it down an
 It is not an free tool. In order to use I need to signup which I have and will wait for google reply.  
 # Sentinel Hub  
 As Abid suggested I was looking at Sentinal Hub which has a neat library in PYTHON but turns out it is commercial and not for everyday use.  
+# PEPS  
+This is provides sentinal products with all the search functionalities, looks promising. 
 
 I will keep on adding more things to it. If you would like to contribute to this do send me an email at me@hamzaafridi.com
