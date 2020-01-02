@@ -15,18 +15,18 @@ This is excrept from the email I recieved from Abid Omar, so I am pasting it as 
 - https://search.earthdata.nasa.gov/search for NASA
 
 # Strategy  
-[ ] Using the open source government repository locate kilns and extract image.
-[ ] Will have to look at the image.
-[ ] Will make a classifier.
-[ ] Get historical satellite image
-[ ] Identify kilns.  
+- [ ] Using the open source government repository locate kilns and extract image.
+- [ ] Will have to look at the image.
+- [ ] Will make a classifier.
+- [ ] Get historical satellite image
+- [ ] Identify kilns.  
 
 # Things to do  
 As it is my first time to work on sattelite images I will be breaking it down and approching the problem step by step:  
-[ ] Best source of latest sattelite images
-[ ] Get satelltie images for given lat long
-[ ] From the Punjab government data extract all brick kilns images and store it  
-[ ] Manually clean the images and Build a classifier  
-[ ] Algorithm to scan area and find brick kilns  
+- [ ] Best source of latest sattelite images
+- [ ] Get satelltie images for given lat long
+- [ ] From the Punjab government data extract all brick kilns images and store it  
+- [ ] Manually clean the images and Build a classifier  
+- [ ] Algorithm to scan area and find brick kilns  
 
 I will keep on adding more things to it. If you would like to contribute to this do send me an email at me@hamzaafridi.com  
