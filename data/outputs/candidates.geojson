@@ -1,0 +1,1260 @@
+{
+  "type": "FeatureCollection",
+  "name": "kiln_candidates",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-562",
+        "score": 0.9472,
+        "scene": "S2B_43RDQ_20250218_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9814913932132,
+          30.951060007186495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-409",
+        "score": 0.9218,
+        "scene": "S2B_43RDQ_20250218_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.96570479015703,
+          30.924110671936763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-159",
+        "score": 0.9097,
+        "scene": "S2C_43RCQ_20250203_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.61839952292128,
+          30.883686669062165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-789",
+        "score": 0.9067,
+        "scene": "S2B_43RDQ_20250218_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.96570479015703,
+          30.991484010061093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-186",
+        "score": 0.9042,
+        "scene": "S2B_43RDQ_20250218_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.04463780543789,
+          30.883686669062165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-134",
+        "score": 0.9014,
+        "scene": "S2B_43RDQ_20250205_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.42351627878598,
+          30.8702120014373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-188",
+        "score": 0.9009,
+        "scene": "S2B_43RDQ_20250218_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.07621101155023,
+          30.883686669062165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-262",
+        "score": 0.8908,
+        "scene": "S2B_43RDQ_20250218_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.04463780543789,
+          30.89716133668703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-412",
+        "score": 0.8887,
+        "scene": "S2B_43RDQ_20250218_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.01306459932555,
+          30.924110671936763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-183",
+        "score": 0.8651,
+        "scene": "S2B_43RDQ_20250218_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.99727799626937,
+          30.883686669062165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-405",
+        "score": 0.8521,
+        "scene": "S2C_43RCQ_20250203_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.90255837793235,
+          30.924110671936763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-452",
+        "score": 0.849,
+        "scene": "S2B_43RDQ_20250205_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.64452872157237,
+          30.924110671936763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-639",
+        "score": 0.8464,
+        "scene": "S2B_43RDQ_20250218_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.99727799626937,
+          30.96453467481136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-265",
+        "score": 0.8423,
+        "scene": "S2B_43RDQ_20250218_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0919976146064,
+          30.89716133668703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-677",
+        "score": 0.8407,
+        "scene": "S2B_43RDQ_20250205_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.59716891240386,
+          30.96453467481136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-111",
+        "score": 0.8402,
+        "scene": "S2B_43RDQ_20250218_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.06042440849406,
+          30.8702120014373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-263",
+        "score": 0.8359,
+        "scene": "S2B_43RDQ_20250218_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.06042440849406,
+          30.89716133668703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-711",
+        "score": 0.8215,
+        "scene": "S2C_43RCQ_20250203_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.93413158404469,
+          30.978009342436227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-339",
+        "score": 0.8173,
+        "scene": "S2B_43RDQ_20250218_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.06042440849406,
+          30.910636004311897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-250",
+        "score": 0.8165,
+        "scene": "S2C_43RCQ_20250203_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.85519856876384,
+          30.89716133668703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-481",
+        "score": 0.8136,
+        "scene": "S2C_43RCQ_20250203_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.90255837793235,
+          30.93758533956163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-781",
+        "score": 0.8074,
+        "scene": "S2C_43RCQ_20250203_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.83941196570767,
+          30.991484010061093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-547",
+        "score": 0.8057,
+        "scene": "S2C_43RCQ_20250203_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.74469234737064,
+          30.951060007186495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-328",
+        "score": 0.7932,
+        "scene": "S2C_43RCQ_20250203_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.88677177487618,
+          30.910636004311897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-787",
+        "score": 0.7797,
+        "scene": "S2C_43RCQ_20250203_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.93413158404469,
+          30.991484010061093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-630",
+        "score": 0.7736,
+        "scene": "S2C_43RCQ_20250203_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.85519856876384,
+          30.96453467481136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-53",
+        "score": 0.7735,
+        "scene": "S2B_43RDQ_20250205_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.34458326350513,
+          30.856737333812433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-82",
+        "score": 0.7698,
+        "scene": "S2C_43RCQ_20250203_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.60261291986511,
+          30.8702120014373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-184",
+        "score": 0.763,
+        "scene": "S2B_43RDQ_20250218_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.01306459932555,
+          30.883686669062165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-527",
+        "score": 0.7481,
+        "scene": "S2B_43RDQ_20250205_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.6287421185162,
+          30.93758533956163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-327",
+        "score": 0.7342,
+        "scene": "S2C_43RCQ_20250203_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.87098517182001,
+          30.910636004311897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-714",
+        "score": 0.7334,
+        "scene": "S2B_43RDQ_20250218_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9814913932132,
+          30.978009342436227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-561",
+        "score": 0.7276,
+        "scene": "S2B_43RDQ_20250218_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.96570479015703,
+          30.951060007186495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-249",
+        "score": 0.7249,
+        "scene": "S2C_43RCQ_20250203_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.83941196570767,
+          30.89716133668703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-745",
+        "score": 0.7221,
+        "scene": "S2B_43RDQ_20250205_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4708760879545,
+          30.978009342436227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-31",
+        "score": 0.7207,
+        "scene": "S2B_43RDQ_20250218_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.99727799626937,
+          30.856737333812433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-260",
+        "score": 0.718,
+        "scene": "S2B_43RDQ_20250218_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.01306459932555,
+          30.89716133668703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-32",
+        "score": 0.7179,
+        "scene": "S2B_43RDQ_20250218_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.01306459932555,
+          30.856737333812433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-635",
+        "score": 0.7172,
+        "scene": "S2C_43RCQ_20250203_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.93413158404469,
+          30.96453467481136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-380",
+        "score": 0.7139,
+        "scene": "S2C_43RCQ_20250203_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.50789330152809,
+          30.924110671936763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-525",
+        "score": 0.7119,
+        "scene": "S2B_43RDQ_20250205_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.59716891240386,
+          30.93758533956163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-760",
+        "score": 0.7116,
+        "scene": "S2C_43RCQ_20250203_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.50789330152809,
+          30.991484010061093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-258",
+        "score": 0.7029,
+        "scene": "S2B_43RDQ_20250218_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9814913932132,
+          30.89716133668703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-462",
+        "score": 0.6936,
+        "scene": "S2C_43RCQ_20250203_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.60261291986511,
+          30.93758533956163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-30",
+        "score": 0.6864,
+        "scene": "S2B_43RDQ_20250218_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9814913932132,
+          30.856737333812433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-337",
+        "score": 0.6833,
+        "scene": "S2B_43RDQ_20250218_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.02885120238172,
+          30.910636004311897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-793",
+        "score": 0.6767,
+        "scene": "S2B_43RDQ_20250218_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.02885120238172,
+          30.991484010061093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-716",
+        "score": 0.6725,
+        "scene": "S2B_43RDQ_20250218_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.01306459932555,
+          30.978009342436227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-407",
+        "score": 0.6617,
+        "scene": "S2C_43RCQ_20250203_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.93413158404469,
+          30.924110671936763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-739",
+        "score": 0.6607,
+        "scene": "S2B_43RDQ_20250205_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.37615646961747,
+          30.978009342436227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-81",
+        "score": 0.6556,
+        "scene": "S2C_43RCQ_20250203_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.58682631680894,
+          30.8702120014373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-33",
+        "score": 0.6523,
+        "scene": "S2B_43RDQ_20250218_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.02885120238172,
+          30.856737333812433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-629",
+        "score": 0.6509,
+        "scene": "S2C_43RCQ_20250203_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.83941196570767,
+          30.96453467481136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-603",
+        "score": 0.6468,
+        "scene": "S2B_43RDQ_20250205_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.6287421185162,
+          30.951060007186495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-6",
+        "score": 0.6438,
+        "scene": "S2C_43RCQ_20250203_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.60261291986511,
+          30.856737333812433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-476",
+        "score": 0.6433,
+        "scene": "S2C_43RCQ_20250203_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8236253626515,
+          30.93758533956163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-172",
+        "score": 0.6391,
+        "scene": "S2C_43RCQ_20250203_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8236253626515,
+          30.883686669062165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-638",
+        "score": 0.6297,
+        "scene": "S2B_43RDQ_20250218_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9814913932132,
+          30.96453467481136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-679",
+        "score": 0.625,
+        "scene": "S2B_43RDQ_20250205_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.6287421185162,
+          30.96453467481136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-416",
+        "score": 0.6212,
+        "scene": "S2B_43RDQ_20250218_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.07621101155023,
+          30.924110671936763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-437",
+        "score": 0.6203,
+        "scene": "S2B_43RDQ_20250205_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.40772967572981,
+          30.924110671936763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-391",
+        "score": 0.62,
+        "scene": "S2C_43RCQ_20250203_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.68154593514596,
+          30.924110671936763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-357",
+        "score": 0.6157,
+        "scene": "S2B_43RDQ_20250205_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.34458326350513,
+          30.910636004311897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-485",
+        "score": 0.6154,
+        "scene": "S2B_43RDQ_20250218_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.96570479015703,
+          30.93758533956163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-35",
+        "score": 0.6098,
+        "scene": "S2B_43RDQ_20250218_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.06042440849406,
+          30.856737333812433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-185",
+        "score": 0.6066,
+        "scene": "S2B_43RDQ_20250218_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.02885120238172,
+          30.883686669062165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-737",
+        "score": 0.5989,
+        "scene": "S2B_43RDQ_20250205_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.34458326350513,
+          30.978009342436227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-471",
+        "score": 0.5983,
+        "scene": "S2C_43RCQ_20250203_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.74469234737064,
+          30.93758533956163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-299",
+        "score": 0.5946,
+        "scene": "S2B_43RDQ_20250205_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.6287421185162,
+          30.89716133668703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-794",
+        "score": 0.5909,
+        "scene": "S2B_43RDQ_20250218_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.04463780543789,
+          30.991484010061093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-715",
+        "score": 0.5825,
+        "scene": "S2B_43RDQ_20250218_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.99727799626937,
+          30.978009342436227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-684",
+        "score": 0.5823,
+        "scene": "S2C_43RCQ_20250203_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.50789330152809,
+          30.978009342436227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-333",
+        "score": 0.5781,
+        "scene": "S2B_43RDQ_20250218_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.96570479015703,
+          30.910636004311897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-261",
+        "score": 0.5768,
+        "scene": "S2B_43RDQ_20250218_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.02885120238172,
+          30.89716133668703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-158",
+        "score": 0.5705,
+        "scene": "S2C_43RCQ_20250203_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.60261291986511,
+          30.883686669062165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-795",
+        "score": 0.5702,
+        "scene": "S2B_43RDQ_20250218_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.06042440849406,
+          30.991484010061093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-686",
+        "score": 0.5679,
+        "scene": "S2C_43RCQ_20250203_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.53946650764043,
+          30.978009342436227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cand-135",
+        "score": 0.5663,
+        "scene": "S2B_43RDQ_20250205_0_L2A",
+        "role": "candidate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.43930288184215,
+          30.8702120014373
+        ]
+      }
+    }
+  ]
+}

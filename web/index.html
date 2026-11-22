@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Brick Kilns — Lahore Pilot</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <style>
+    :root {
+      --ink: #1c1410;
+      --paper: #f3ebe0;
+      --clay: #b85c38;
+      --smoke: #5c6b73;
+      --gt: #2f6f4e;
+      --cand: #b85c38;
+      --aoi: #5c6b73;
+    }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; height: 100%; font-family: "Source Sans 3", system-ui, sans-serif; color: var(--ink); background: var(--paper); }
+    body {
+      display: grid;
+      grid-template-rows: auto 1fr;
+      background:
+        radial-gradient(1200px 600px at 10% -10%, rgba(184,92,56,0.18), transparent 55%),
+        radial-gradient(900px 500px at 100% 0%, rgba(92,107,115,0.16), transparent 50%),
+        linear-gradient(180deg, #efe4d6 0%, #f3ebe0 40%, #e7ddd0 100%);
+    }
+    header {
+      padding: 1.1rem 1.4rem 0.9rem;
+      display: grid;
+      gap: 0.35rem;
+      border-bottom: 1px solid rgba(28,20,16,0.12);
+      backdrop-filter: blur(6px);
+    }
+    .brand {
+      font-family: Fraunces, Georgia, serif;
+      font-weight: 700;
+      font-size: clamp(1.5rem, 3vw, 2.1rem);
+      letter-spacing: -0.02em;
+      line-height: 1.1;
+    }
+    .lede { max-width: 52rem; color: rgba(28,20,16,0.78); font-size: 0.98rem; }
+    .shell {
+      display: grid;
+      grid-template-columns: minmax(240px, 320px) 1fr;
+      min-height: 0;
+    }
+    @media (max-width: 860px) {
+      .shell { grid-template-columns: 1fr; grid-template-rows: auto 1fr; }
+    }
+    aside {
+      padding: 1rem 1.2rem 1.4rem;
+      border-right: 1px solid rgba(28,20,16,0.1);
+      overflow: auto;
+      background: rgba(255,255,255,0.35);
+    }
+    h2 { font-family: Fraunces, Georgia, serif; font-size: 1.05rem; margin: 1rem 0 0.45rem; }
+    h2:first-child { margin-top: 0.2rem; }
+    .stat {
+      display: flex; justify-content: space-between; gap: 1rem;
+      padding: 0.35rem 0; border-bottom: 1px dashed rgba(28,20,16,0.12);
+      font-size: 0.92rem;
+    }
+    .stat strong { font-variant-numeric: tabular-nums; }
+    .legend { display: grid; gap: 0.45rem; margin-top: 0.4rem; }
+    .swatch { display: flex; align-items: center; gap: 0.55rem; font-size: 0.92rem; }
+    .dot { width: 12px; height: 12px; border-radius: 50%; border: 2px solid rgba(0,0,0,0.2); }
+    .dot.gt { background: var(--gt); }
+    .dot.cand { background: var(--cand); }
+    .dot.aoi { background: transparent; box-shadow: inset 0 0 0 2px var(--aoi); border: none; border-radius: 2px; width: 14px; height: 10px; }
+    .toggles label { display: flex; gap: 0.5rem; align-items: center; margin: 0.25rem 0; font-size: 0.92rem; }
+    #map { min-height: 420px; height: 100%; }
+    .note { font-size: 0.82rem; color: rgba(28,20,16,0.7); margin-top: 0.8rem; line-height: 1.35; }
+    .leaflet-container { background: #d9cfc2; font: inherit; }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="brand">Brick Kilns · Lahore</div>
+    <p class="lede">Interactive map of detected kiln candidates around Lahore and neighboring districts (Kasur, Sheikhupura, Nankana Sahib), with PAQI crowd-sourced ground truth overlay. Imagery: open Sentinel-2.</p>
+  </header>
+  <div class="shell">
+    <aside>
+      <h2>Summary</h2>
+      <div id="stats"></div>
+      <h2>Layers</h2>
+      <div class="toggles" id="toggles"></div>
+      <h2>Legend</h2>
+      <div class="legend">
+        <div class="swatch"><span class="dot cand"></span> Model candidates</div>
+        <div class="swatch"><span class="dot gt"></span> PAQI ground truth</div>
+        <div class="swatch"><span class="dot aoi"></span> Pilot AOI</div>
+      </div>
+      <p class="note" id="note"></p>
+    </aside>
+    <div id="map"></div>
+  </div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script>
+    const map = L.map("map", { zoomControl: true, scrollWheelZoom: true });
+    L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {
+      attribution: '&copy; OpenStreetMap &copy; CARTO · Copernicus Sentinel data',
+      maxZoom: 18,
+    }).addTo(map);
+
+    const layers = {};
+    const toggles = document.getElementById("toggles");
+
+    function addToggle(id, label, layer, on = true) {
+      const wrap = document.createElement("label");
+      const input = document.createElement("input");
+      input.type = "checkbox";
+      input.checked = on;
+      input.addEventListener("change", () => {
+        if (input.checked) layer.addTo(map); else map.removeLayer(layer);
+      });
+      wrap.appendChild(input);
+      wrap.appendChild(document.createTextNode(label));
+      toggles.appendChild(wrap);
+      if (on) layer.addTo(map);
+      layers[id] = layer;
+    }
+
+    function pct(x) {
+      if (x === null || x === undefined || Number.isNaN(x)) return "—";
+      return (100 * x).toFixed(1) + "%";
+    }
+
+    Promise.all([
+      fetch("data/aoi.geojson").then(r => r.json()),
+      fetch("data/paqi_lahore_aoi.geojson").then(r => r.json()),
+      fetch("data/candidates.geojson").then(r => r.json()),
+      fetch("data/accuracy_report.json").then(r => r.json()),
+      fetch("data/train_metrics.json").then(r => r.json()).catch(() => null),
+    ]).then(([aoi, gt, cands, report, train]) => {
+      const aoiLayer = L.geoJSON(aoi, {
+        style: { color: "#5c6b73", weight: 2, fillColor: "#5c6b73", fillOpacity: 0.06 },
+      });
+      const gtLayer = L.geoJSON(gt, {
+        pointToLayer: (f, latlng) => L.circleMarker(latlng, {
+          radius: 4, color: "#1d3f2d", weight: 1, fillColor: "#2f6f4e", fillOpacity: 0.85,
+        }),
+        onEachFeature: (f, layer) => layer.bindPopup(`<strong>PAQI</strong><br>${f.properties.name || f.properties.id}`),
+      });
+      const candLayer = L.geoJSON(cands, {
+        pointToLayer: (f, latlng) => L.circleMarker(latlng, {
+          radius: 6, color: "#7a3a22", weight: 1, fillColor: "#b85c38", fillOpacity: 0.9,
+        }),
+        onEachFeature: (f, layer) => layer.bindPopup(
+          `<strong>Candidate</strong><br>score: ${f.properties.score}<br>scene: ${f.properties.scene || "—"}`
+        ),
+      });
+
+      addToggle("aoi", "Pilot AOI", aoiLayer, true);
+      addToggle("gt", `PAQI ground truth (${gt.features.length})`, gtLayer, true);
+      addToggle("cand", `Model candidates (${cands.features.length})`, candLayer, true);
+
+      const bounds = aoiLayer.getBounds();
+      if (bounds.isValid()) map.fitBounds(bounds.pad(0.05));
+      else map.setView([31.5, 74.2], 9);
+
+      const stats = document.getElementById("stats");
+      const rows = [
+        ["AOI GT points (PAQI)", gt.features.length],
+        ["Candidates", cands.features.length],
+        ["Match radius", (report.match_radius_m || 500) + " m"],
+        ["Precision vs GT", pct(report.precision_vs_gt)],
+        ["Recall vs GT", pct(report.recall_vs_gt)],
+        ["Matched GT", `${report.matched_gt ?? "—"} / ${report.gt_count ?? "—"}`],
+      ];
+      if (train) {
+        rows.push(["Held-out F1 (train)", (train.f1 != null ? train.f1.toFixed(3) : "—")]);
+        rows.push(["Held-out ROC-AUC", (train.roc_auc != null ? train.roc_auc.toFixed(3) : "—")]);
+      }
+      stats.innerHTML = rows.map(([k,v]) => `<div class="stat"><span>${k}</span><strong>${v}</strong></div>`).join("");
+
+      document.getElementById("note").textContent =
+        "Urban Unit census dump was unavailable; PAQI crowd map is secondary GT. " +
+        "Detector: Sentinel-2 L2A chips via Earth Search + RandomForest. Open data / open tools only.";
+    }).catch(err => {
+      document.getElementById("stats").innerHTML = `<div class="note">Failed to load map data: ${err}</div>`;
+    });
+  </script>
+</body>
+</html>

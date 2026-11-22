@@ -1,0 +1,8 @@
+{
+  "source": "PAQI Google My Maps",
+  "map_url": "https://www.google.com/maps/d/viewer?mid=10XfGkHOhKQMa5U6ddfa3yGEH-lI3iNv2&usp=sharing",
+  "kml_url": "https://www.google.com/maps/d/kml?mid=10XfGkHOhKQMa5U6ddfa3yGEH-lI3iNv2&forcekml=1",
+  "nationwide_count": 1868,
+  "aoi_count": 608,
+  "note": "Urban Unit census has no public point dump and dashboard was unreachable; PAQI crowd map used as available ground truth for v1."
+}

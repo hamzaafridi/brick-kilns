@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "name": "lahore_pilot_aoi",
+  "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lahore pilot AOI",
+        "districts": ["Lahore", "Kasur", "Sheikhupura", "Nankana Sahib"],
+        "description": "Approximate union of Lahore district and neighboring Kasur, Sheikhupura, and Nankana Sahib (Pakistan). Locked for v1 detector + map."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [73.50, 30.85],
+          [74.70, 30.85],
+          [74.70, 31.95],
+          [73.50, 31.95],
+          [73.50, 30.85]
+        ]]
+      }
+    }
+  ]
+}

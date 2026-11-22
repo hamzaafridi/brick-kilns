@@ -1,0 +1,9740 @@
+{
+  "type": "FeatureCollection",
+  "name": "paqi_lahore_aoi",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-0",
+        "name": "Kamahan-Lidher Road",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4283335,
+          31.4544183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1",
+        "name": "Point 2",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3799747,
+          31.3873057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-2",
+        "name": "Point 3",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3899608,
+          31.3869164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-3",
+        "name": "Point 4",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3879584,
+          31.383537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-4",
+        "name": "Point 5",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3946005,
+          31.3825904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-5",
+        "name": "Point 6",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3471803,
+          31.3804301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-6",
+        "name": "Point 7",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3414404,
+          31.3710949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-7",
+        "name": "Point 8",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3347569,
+          31.3714144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-8",
+        "name": "Point 10",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3402319,
+          31.3672114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-9",
+        "name": "Point 11",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3346309,
+          31.3648331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-10",
+        "name": "Point 12",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3238648,
+          31.3702957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-11",
+        "name": "Point 13",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.327228,
+          31.3788278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-12",
+        "name": "Point 14",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3165981,
+          31.3632404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-13",
+        "name": "Point 15",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1688318,
+          31.3573692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-14",
+        "name": "Point 16",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1665645,
+          31.3532221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-15",
+        "name": "Point 17",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1666969,
+          31.3431996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-16",
+        "name": "Point 18",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1716601,
+          31.3406511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-17",
+        "name": "Point 19",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1379802,
+          31.3316197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-18",
+        "name": "Point 20",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0988263,
+          31.3237695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-19",
+        "name": "Point 21",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0908054,
+          31.3188552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-20",
+        "name": "Point 22",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0895984,
+          31.3173922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-21",
+        "name": "Point 23",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0877659,
+          31.3152489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-22",
+        "name": "Point 24",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1060711,
+          31.3138482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-23",
+        "name": "Point 25",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1152477,
+          31.3078312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-24",
+        "name": "Point 26",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.130931,
+          31.3184349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-25",
+        "name": "Point 27",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1563224,
+          31.3282107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-26",
+        "name": "Point 28",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0803541,
+          31.3163419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-27",
+        "name": "Point 29",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0635133,
+          31.3095979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-28",
+        "name": "Point 30",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4261383,
+          31.6214561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-29",
+        "name": "Point 31",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4518369,
+          31.6112877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-30",
+        "name": "Point 32",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4479781,
+          31.604772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-31",
+        "name": "Point 33",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4582358,
+          31.6058076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-32",
+        "name": "Point 34",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4674934,
+          31.6012944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-33",
+        "name": "Point 35",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4439361,
+          31.5857663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-34",
+        "name": "Jallo Road",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4976258,
+          31.5704034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-35",
+        "name": "Point 39",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4972754,
+          31.5647873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-36",
+        "name": "Point 40",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4962465,
+          31.5604595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-37",
+        "name": "Point 41",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4943428,
+          31.5557117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-38",
+        "name": "Point 42",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4983569,
+          31.5495008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-39",
+        "name": "Point 43",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4919501,
+          31.5428775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-40",
+        "name": "Point 44",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5200938,
+          31.5679917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-41",
+        "name": "Point 45",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5263841,
+          31.570977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-42",
+        "name": "Point 46",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5250388,
+          31.5700769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-43",
+        "name": "Point 47",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5331129,
+          31.5648322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-44",
+        "name": "Point 48",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5401492,
+          31.5564441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-45",
+        "name": "Point 49",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.534944,
+          31.5521253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-46",
+        "name": "Point 50",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5432416,
+          31.581092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-47",
+        "name": "Point 51",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.332229,
+          31.4024136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-48",
+        "name": "Point 52",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3905104,
+          31.3917917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-49",
+        "name": "Point 53",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3874175,
+          31.3903854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-50",
+        "name": "Point 54",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.500862,
+          31.4147324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-51",
+        "name": "Point 52",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4499201,
+          31.5539297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-52",
+        "name": "Point 53",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2550797,
+          31.7824819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-53",
+        "name": "Point 54",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2622018,
+          31.7863434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-54",
+        "name": "Point 55",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2673676,
+          31.7886911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-55",
+        "name": "Point 56",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2575137,
+          31.7891335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-56",
+        "name": "Point 57",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2579918,
+          31.8128706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-57",
+        "name": "Point 58",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2566378,
+          31.8226574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-58",
+        "name": "Point 59",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2534168,
+          31.8336124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-59",
+        "name": "Point 60",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2550874,
+          31.8330662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-60",
+        "name": "Point 61",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.256549,
+          31.8340131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-61",
+        "name": "Point 62",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2690704,
+          31.8340994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-62",
+        "name": "Point 63",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1783656,
+          31.5632495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-63",
+        "name": "Point 65",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1707331,
+          31.5633905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-64",
+        "name": "Point 66",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.169897,
+          31.5632405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-65",
+        "name": "Point 67",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1686586,
+          31.5653782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-66",
+        "name": "Point 68",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1640037,
+          31.5687366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-67",
+        "name": "Point 69",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1620042,
+          31.5745213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-68",
+        "name": "Point 70",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.158949,
+          31.5721641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-69",
+        "name": "Point 71",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1579369,
+          31.5745213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-70",
+        "name": "Point 72",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1711586,
+          31.5588199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-71",
+        "name": "Point 73",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1705582,
+          31.5583377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-72",
+        "name": "Point 74",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1553589,
+          31.5606082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-73",
+        "name": "Point 75",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1472809,
+          31.5471561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-74",
+        "name": "Point 76",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1465862,
+          31.546647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-75",
+        "name": "Point 77",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1465679,
+          31.540717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-76",
+        "name": "Point 78",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1516981,
+          31.5389354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-77",
+        "name": "Point 79",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1565512,
+          31.5471774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-78",
+        "name": "Point 80",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1635543,
+          31.5449838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-79",
+        "name": "Point 81",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1235362,
+          31.5258178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-80",
+        "name": "Point 82",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0877397,
+          31.5350642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-81",
+        "name": "Point 83",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.303896,
+          31.6619944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-82",
+        "name": "Point 84",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2920146,
+          31.6653661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-83",
+        "name": "Point 85",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2996338,
+          31.6557551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-84",
+        "name": "Point 86",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2868566,
+          31.670616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-85",
+        "name": "Point 87",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3072648,
+          31.6693566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-86",
+        "name": "Point 88",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3066369,
+          31.6799592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-87",
+        "name": "Point 89",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3046881,
+          31.6815511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-88",
+        "name": "Point 90",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1652715,
+          31.4167101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-89",
+        "name": "Point 91",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.975302,
+          31.7436082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-90",
+        "name": "Point 92",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9757357,
+          31.7411822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-91",
+        "name": "Point 93",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9788852,
+          31.741979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-92",
+        "name": "Point 94",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9746714,
+          31.7419951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-93",
+        "name": "Point 95",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.981467,
+          31.7463585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-94",
+        "name": "Point 96",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.974594,
+          31.7402856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-95",
+        "name": "Point 97",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9706965,
+          31.7400557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-96",
+        "name": "Point 98",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.969458,
+          31.7402321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-97",
+        "name": "Point 99",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9692946,
+          31.7397027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-98",
+        "name": "Point 100",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9681567,
+          31.7397241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-99",
+        "name": "Point 101",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9670033,
+          31.7414517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-100",
+        "name": "Point 102",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9671227,
+          31.7431414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-101",
+        "name": "Point 103",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9654631,
+          31.743227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-102",
+        "name": "Point 104",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9651174,
+          31.7438419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-103",
+        "name": "Point 105",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9645453,
+          31.7453071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-104",
+        "name": "Point 106",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9630526,
+          31.7473674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-105",
+        "name": "Point 107",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9630896,
+          31.750593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-106",
+        "name": "Point 108",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9629775,
+          31.7495704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-107",
+        "name": "Point 109",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9619874,
+          31.7492563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-108",
+        "name": "Point 110",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9624762,
+          31.7506492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-109",
+        "name": "Point 111",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9596269,
+          31.7509967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-110",
+        "name": "Point 112",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.961824,
+          31.7514142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-111",
+        "name": "Point 113",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9526132,
+          31.7388518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-112",
+        "name": "Point 114",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.959346,
+          31.7376111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-113",
+        "name": "Point 115",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9591825,
+          31.7360656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-114",
+        "name": "Point 116",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9581201,
+          31.7368036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-115",
+        "name": "Point 117",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9609176,
+          31.7352902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-116",
+        "name": "Point 118",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9573007,
+          31.7302583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-117",
+        "name": "Point 119",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9739595,
+          31.7377259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-118",
+        "name": "Point 120",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.970766,
+          31.7359184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-119",
+        "name": "Point 121",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9749653,
+          31.735897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-120",
+        "name": "Point 122",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9881794,
+          31.73333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-121",
+        "name": "Point 123",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9900527,
+          31.7355868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-122",
+        "name": "Point 124",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.000497,
+          31.7442763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-123",
+        "name": "Point 125",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9980579,
+          31.7507249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-124",
+        "name": "Point 126",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0007359,
+          31.7492705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-125",
+        "name": "Point 127",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0028607,
+          31.7485968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-126",
+        "name": "Point 128",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0063432,
+          31.7546748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-127",
+        "name": "Point 129",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0093762,
+          31.7423813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-128",
+        "name": "Point 130",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0104198,
+          31.7422316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-129",
+        "name": "Point 131",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.013422,
+          31.7573058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-130",
+        "name": "Point 132",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0137895,
+          31.7614213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-131",
+        "name": "Point 133",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0140033,
+          31.7633673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-132",
+        "name": "Point 134",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0183469,
+          31.7688584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-133",
+        "name": "Point 135",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0174126,
+          31.7705246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-134",
+        "name": "Point 136",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0192263,
+          31.7706529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-135",
+        "name": "Point 137",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0181544,
+          31.7712302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-136",
+        "name": "Point 138",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0185725,
+          31.7722299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-137",
+        "name": "Point 139",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0188742,
+          31.7729676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-138",
+        "name": "Point 140",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0198642,
+          31.7756902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-139",
+        "name": "Point 140",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1078517,
+          31.7606884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-140",
+        "name": "Point 141",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3446056,
+          31.42923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-141",
+        "name": "Point 142",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5313371,
+          31.5747726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-142",
+        "name": "Point 143",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5280903,
+          31.5799867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-143",
+        "name": "Point 144",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5149032,
+          31.5882232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-144",
+        "name": "Point 145",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.511635,
+          31.5898706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-145",
+        "name": "Point 146",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5088371,
+          31.5889281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-146",
+        "name": "Point 147",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5056962,
+          31.5893645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-147",
+        "name": "Point 148",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5045907,
+          31.5830038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-148",
+        "name": "Point 149",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5045006,
+          31.5799623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-149",
+        "name": "Point 150",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1729907,
+          31.3658507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-150",
+        "name": "Point 151",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.180018,
+          31.3660537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-151",
+        "name": "Point 152",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2719564,
+          31.3216709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-152",
+        "name": "Point 153",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2671714,
+          31.3183072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-153",
+        "name": "Point 154",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2820577,
+          31.3233898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-154",
+        "name": "Point 155",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2792682,
+          31.3181105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-155",
+        "name": "Point 156",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2732815,
+          31.3121711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-156",
+        "name": "Point 157",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2801694,
+          31.3081562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-157",
+        "name": "Point 158",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2811564,
+          31.3127944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-158",
+        "name": "Point 159",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2669106,
+          31.3053571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-159",
+        "name": "Point 160",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2782188,
+          31.302772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-160",
+        "name": "Point 161",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2697859,
+          31.301837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-161",
+        "name": "Point 162",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2739701,
+          31.2994718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-162",
+        "name": "Point 163",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.262383,
+          31.2995452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-163",
+        "name": "Point 164",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2557955,
+          31.302167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-164",
+        "name": "Point 165",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2628551,
+          31.294778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-165",
+        "name": "Point 166",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2706304,
+          31.2886931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-166",
+        "name": "Point 167",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2684846,
+          31.2868594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-167",
+        "name": "Point 168",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2604809,
+          31.288088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-168",
+        "name": "Point 169",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2671757,
+          31.283687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-169",
+        "name": "Point 170",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2525415,
+          31.2839621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-170",
+        "name": "Point 171",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.245954,
+          31.2828801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-171",
+        "name": "Point 172",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2449884,
+          31.2874829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-172",
+        "name": "Point 173",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2520036,
+          31.2766744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-173",
+        "name": "Point 174",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2587628,
+          31.2773896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-174",
+        "name": "Point 175",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2575397,
+          31.2752072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-175",
+        "name": "Point 176",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2636122,
+          31.2750605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-176",
+        "name": "Point 177",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2658867,
+          31.2711541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-177",
+        "name": "Point 178",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2344683,
+          31.2688517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-178",
+        "name": "Point 179",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2286962,
+          31.2661739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-179",
+        "name": "Point 180",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2277735,
+          31.2653668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-180",
+        "name": "Point 181",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2798529,
+          31.340467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-181",
+        "name": "Point 182",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2862902,
+          31.3396606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-182",
+        "name": "Point 183",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2874275,
+          31.3397156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-183",
+        "name": "Point 184",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2857323,
+          31.3413467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-184",
+        "name": "Point 185",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2866765,
+          31.3469911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-185",
+        "name": "Point 186",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2970012,
+          31.3336895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-186",
+        "name": "Point 187",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3041037,
+          31.3386746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-187",
+        "name": "Point 188",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1685097,
+          31.3103771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-188",
+        "name": "Point 189",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1717283,
+          31.3156018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-189",
+        "name": "Point 190",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2642834,
+          31.2602689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-190",
+        "name": "Point 191",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.287801,
+          31.2582146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-191",
+        "name": "Point 192",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2648156,
+          31.2501315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-192",
+        "name": "Point 193",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2544658,
+          31.2434294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-193",
+        "name": "Point 194",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2651946,
+          31.2398336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-194",
+        "name": "Point 195",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3422896,
+          31.3072659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-195",
+        "name": "Point 196",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.345637,
+          31.3049926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-196",
+        "name": "Point 197",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3430762,
+          31.2987835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-197",
+        "name": "Point 198",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3543026,
+          31.3138858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-198",
+        "name": "Point 199",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3443248,
+          31.3145274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-199",
+        "name": "Point 200",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.339016,
+          31.3459472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-200",
+        "name": "Point 201",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3535924,
+          31.350818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-201",
+        "name": "Point 202",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3440438,
+          31.3542264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-202",
+        "name": "Point 203",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3448935,
+          31.3638582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-203",
+        "name": "Point 204",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3994444,
+          31.3353176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-204",
+        "name": "Point 205",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4321638,
+          31.322142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-205",
+        "name": "Point 206",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4545128,
+          31.3786633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-206",
+        "name": "Point 207",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.555414,
+          31.5796175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-207",
+        "name": "Point 208",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5250111,
+          31.5870756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-208",
+        "name": "Point 209",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5076996,
+          31.5986621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-209",
+        "name": "Point 210",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5132357,
+          31.6014035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-210",
+        "name": "Point 211",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5155961,
+          31.5973462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-211",
+        "name": "Point 212",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5198018,
+          31.5958292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-212",
+        "name": "Point 213",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5203597,
+          31.5999414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-213",
+        "name": "Point 214",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5240504,
+          31.5989545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-214",
+        "name": "Point 215",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5162276,
+          31.6061819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-215",
+        "name": "Point 216",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.494582,
+          31.6089779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-216",
+        "name": "Point 217",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4865997,
+          31.6115579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-217",
+        "name": "Point 218",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4923718,
+          31.6119234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-218",
+        "name": "Point 219",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4944103,
+          31.6132026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-219",
+        "name": "Point 220",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4883422,
+          31.6164444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-220",
+        "name": "Point 221",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4949726,
+          31.6146902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-221",
+        "name": "Point 222",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4974402,
+          31.6170657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-222",
+        "name": "Point 223",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4855967,
+          31.621711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-223",
+        "name": "Point 224",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4861975,
+          31.621711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-224",
+        "name": "Point 225",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4878283,
+          31.6230266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-225",
+        "name": "Point 226",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4899955,
+          31.6219303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-226",
+        "name": "Point 227",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4984069,
+          31.6233372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-227",
+        "name": "Point 228",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5006814,
+          31.6250547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-228",
+        "name": "Point 229",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5046511,
+          31.6258404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-229",
+        "name": "Point 230",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5111902,
+          31.62391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-230",
+        "name": "Point 231",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5142915,
+          31.6326182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-231",
+        "name": "Point 232",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1945792,
+          31.5893878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-232",
+        "name": "Point 233",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1748825,
+          31.573788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-233",
+        "name": "Point 234",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1755477,
+          31.5756527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-234",
+        "name": "Point 235",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1743136,
+          31.6229018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-235",
+        "name": "Point 236",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1645289,
+          31.6254598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-236",
+        "name": "Point 237",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1778756,
+          31.6321833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-237",
+        "name": "Point 238",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1817809,
+          31.6337911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-238",
+        "name": "Point 239",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1319073,
+          31.6371121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-239",
+        "name": "Point 240",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1948384,
+          31.6574486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-240",
+        "name": "Point 241",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1698681,
+          31.6945127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-241",
+        "name": "Point 242",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1752326,
+          31.6986935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-242",
+        "name": "Point 243",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1758334,
+          31.6969226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-243",
+        "name": "Point 244",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1779791,
+          31.6968496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-244",
+        "name": "Point 245",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.180082,
+          31.6969591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-245",
+        "name": "Point 246",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1925514,
+          31.7032493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-246",
+        "name": "Point 247",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2532923,
+          31.7058393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-247",
+        "name": "Point 248",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2739716,
+          31.7242962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-248",
+        "name": "Point 249",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2380074,
+          31.6725622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-249",
+        "name": "Point 250",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5250911,
+          31.5923238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-250",
+        "name": "Point 251",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5510478,
+          31.6013508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-251",
+        "name": "Point 252",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5580001,
+          31.5994318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-252",
+        "name": "Point 253",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5340621,
+          31.5406024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-253",
+        "name": "Point 254",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4870712,
+          31.5502516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-254",
+        "name": "Point 255",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1864976,
+          31.3242877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-255",
+        "name": "Point 256",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1348539,
+          31.3075594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-256",
+        "name": "Point 257",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1450909,
+          31.2951123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-257",
+        "name": "Point 258",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1482237,
+          31.2959557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-258",
+        "name": "Point 259",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1505411,
+          31.2921785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-259",
+        "name": "Point 260",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1461208,
+          31.2877044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-260",
+        "name": "Point 261",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1592959,
+          31.3049397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-261",
+        "name": "Point 262",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1521485,
+          31.2812217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-262",
+        "name": "Point 263",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1530497,
+          31.2799196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-263",
+        "name": "Point 264",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.125541,
+          31.273886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-264",
+        "name": "Point 265",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1253852,
+          31.2709067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-265",
+        "name": "Point 266",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1081449,
+          31.2783018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-266",
+        "name": "Point 267",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.087803,
+          31.2851603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-267",
+        "name": "Point 268",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0979313,
+          31.2672502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-268",
+        "name": "Point 269",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0944766,
+          31.2620595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-269",
+        "name": "Point 270",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0953993,
+          31.2610507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-270",
+        "name": "Point 271",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0579485,
+          31.2637824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-271",
+        "name": "Point 272",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0579758,
+          31.2433615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-272",
+        "name": "Point 273",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0562592,
+          31.2424259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-273",
+        "name": "Point 274",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.041668,
+          31.2453612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-274",
+        "name": "Point 275",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0442643,
+          31.2444072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-275",
+        "name": "Point 276",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0542851,
+          31.2465169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-276",
+        "name": "Point 277",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0347586,
+          31.2423525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-277",
+        "name": "Point 278",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0360174,
+          31.250938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-278",
+        "name": "Point 279",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0316401,
+          31.2542261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-279",
+        "name": "Point 280",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0367899,
+          31.257051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-280",
+        "name": "Point 281",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0179501,
+          31.2594355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-281",
+        "name": "Point 282",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0205465,
+          31.2602793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-282",
+        "name": "Point 283",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0521385,
+          31.2361086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-283",
+        "name": "Point 284",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0489842,
+          31.2301823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-284",
+        "name": "Point 285",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0460016,
+          31.2290263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-285",
+        "name": "Point 286",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0685965,
+          31.2312098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-286",
+        "name": "Point 287",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0089069,
+          31.2385447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-287",
+        "name": "Point 288",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0072761,
+          31.2369852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-288",
+        "name": "Point 289",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0101943,
+          31.2305452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-289",
+        "name": "Point 290",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9842735,
+          31.2354073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-290",
+        "name": "Point 291",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9786301,
+          31.2371136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-291",
+        "name": "Point 292",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9761584,
+          31.253227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-292",
+        "name": "Point 293",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9759868,
+          31.2560152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-293",
+        "name": "Point 294",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9805358,
+          31.252053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-294",
+        "name": "Point 295",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9826626,
+          31.2594292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-295",
+        "name": "Point 296",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9896793,
+          31.2603647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-296",
+        "name": "Point 297",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.991006,
+          31.2632869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-297",
+        "name": "Point 298",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9981299,
+          31.260884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-298",
+        "name": "Point 299",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0831612,
+          31.3262839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-299",
+        "name": "Point 300",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1969615,
+          31.2425255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-300",
+        "name": "Point 301",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1995075,
+          31.2325777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-301",
+        "name": "Point 302",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.186655,
+          31.2247841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-302",
+        "name": "Point 303",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1331658,
+          31.2344476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-303",
+        "name": "Point 304",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1358695,
+          31.2296038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-304",
+        "name": "Point 305",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1237244,
+          31.2368694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-305",
+        "name": "Point 306",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1270718,
+          31.2315487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-306",
+        "name": "Point 307",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1258702,
+          31.2266313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-307",
+        "name": "Point 308",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1217503,
+          31.224356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-308",
+        "name": "Point 309",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1087899,
+          31.2289065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-309",
+        "name": "Point 310",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1154418,
+          31.2316221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-310",
+        "name": "Point 311",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1101203,
+          31.2325028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-311",
+        "name": "Point 312",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1125235,
+          31.2379703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-312",
+        "name": "Point 313",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1190467,
+          31.2400251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-313",
+        "name": "Point 314",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1080603,
+          31.2420431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-314",
+        "name": "Point 315",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1223082,
+          31.245272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-315",
+        "name": "Point 316",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1226086,
+          31.2472166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-316",
+        "name": "Point 317",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.128531,
+          31.2446482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-317",
+        "name": "Point 318",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1299043,
+          31.2393096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-318",
+        "name": "Point 319",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0877776,
+          31.2448058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-319",
+        "name": "Point 320",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0979056,
+          31.2464935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-320",
+        "name": "Point 321",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0820269,
+          31.2297613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-321",
+        "name": "Point 322",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1120083,
+          31.2605393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-322",
+        "name": "Point 323",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1133835,
+          31.2111636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-323",
+        "name": "Point 324",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1203358,
+          31.2091816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-324",
+        "name": "Point 325",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1184046,
+          31.2152376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-325",
+        "name": "Point 326",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1289189,
+          31.2018771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-326",
+        "name": "Point 327",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1231897,
+          31.1950376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-327",
+        "name": "Point 328",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1229322,
+          31.1936243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-328",
+        "name": "Point 329",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1228893,
+          31.189643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-329",
+        "name": "Point 330",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1291764,
+          31.1880828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-330",
+        "name": "Point 331",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1034386,
+          31.1876661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-331",
+        "name": "Point 332",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0987575,
+          31.1805504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-332",
+        "name": "Point 333",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1253081,
+          31.2171547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-333",
+        "name": "Point 334",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1045717,
+          31.2207814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-334",
+        "name": "Point 335",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3680016,
+          31.3328433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-335",
+        "name": "Point 336",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3711344,
+          31.3311204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-336",
+        "name": "Point 337",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2969493,
+          31.2064307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-337",
+        "name": "Point 338",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2983762,
+          31.2046321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-338",
+        "name": "Point 339",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2986766,
+          31.2070731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-339",
+        "name": "Point 340",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3027214,
+          31.2062105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-340",
+        "name": "Point 341",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3054358,
+          31.2052194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-341",
+        "name": "Point 342",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3053285,
+          31.2033841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-342",
+        "name": "Point 343",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3075121,
+          31.2093822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-343",
+        "name": "Point 344",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3089068,
+          31.2084646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-344",
+        "name": "Point 345",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2772448,
+          31.2062697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-345",
+        "name": "Point 346",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2713439,
+          31.2089749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-346",
+        "name": "Point 347",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2670094,
+          31.2108744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-347",
+        "name": "Point 348",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2568492,
+          31.2105349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-348",
+        "name": "Point 349",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2664976,
+          31.2025212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-349",
+        "name": "Point 350",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2701669,
+          31.2016586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-350",
+        "name": "Point 351",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2026169,
+          31.2156975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-351",
+        "name": "Point 352",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2032392,
+          31.2192759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-352",
+        "name": "Point 353",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2065651,
+          31.2168169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-353",
+        "name": "Point 354",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1927893,
+          31.218597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-354",
+        "name": "Point 355",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2146301,
+          31.2298972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-355",
+        "name": "Point 356",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2632414,
+          31.2307771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-356",
+        "name": "Point 357",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2807327,
+          31.2246388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-357",
+        "name": "Point 358",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2820845,
+          31.2262168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-358",
+        "name": "Point 359",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2974881,
+          31.2335457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-359",
+        "name": "Point 360",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2589481,
+          31.1901143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-360",
+        "name": "Point 361",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3166376,
+          31.1865211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-361",
+        "name": "Point 362",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.313376,
+          31.1820971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-362",
+        "name": "Point 363",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1399074,
+          31.2899049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-363",
+        "name": "Point 364",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3535991,
+          31.3241986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-364",
+        "name": "Point 365",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7945389,
+          31.755683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-365",
+        "name": "Brick Kiln",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7761543,
+          31.7629345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-366",
+        "name": "Brick Kiln",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7731771,
+          31.7623644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-367",
+        "name": "Brick Kiln",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7705622,
+          31.7621455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-368",
+        "name": "Brick Kiln",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7694572,
+          31.7636825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-369",
+        "name": "Brick Kiln",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7682555,
+          31.7629436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-370",
+        "name": "Brick Kiln",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.755839,
+          31.7687097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-371",
+        "name": "Brick Kiln",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7541901,
+          31.7693741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-372",
+        "name": "Brick Kiln",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7427385,
+          31.7742108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-373",
+        "name": "Brick Kiln",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7418346,
+          31.773032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-374",
+        "name": "Brick Kiln",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7329162,
+          31.776393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-375",
+        "name": "Brick Kiln",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7294615,
+          31.7789194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-376",
+        "name": "Brick Kiln",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7100155,
+          31.7865939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-377",
+        "name": "Point 378",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4155664,
+          31.135471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-378",
+        "name": "Point 379",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4221483,
+          31.1338097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-379",
+        "name": "Point 380",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4213499,
+          31.1314468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-380",
+        "name": "Point 381",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4197406,
+          31.1305372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-381",
+        "name": "Point 382",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.425631,
+          31.1316137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-382",
+        "name": "Point 383",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4287502,
+          31.1280121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-383",
+        "name": "Point 384",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4251084,
+          31.1280175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-384",
+        "name": "Point 385",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4245678,
+          31.1271293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-385",
+        "name": "Point 386",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4187843,
+          31.1286203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-386",
+        "name": "Point 387",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4176653,
+          31.1282974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-387",
+        "name": "Point 388",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4212926,
+          31.126688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-388",
+        "name": "Point 389",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4193061,
+          31.1261335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-389",
+        "name": "Point 390",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4135782,
+          31.1282397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-390",
+        "name": "Point 391",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4144583,
+          31.1253331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-391",
+        "name": "Point 392",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4136222,
+          31.1238421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-392",
+        "name": "Point 393",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4109001,
+          31.1233038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-393",
+        "name": "Point 394",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4101297,
+          31.1212996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-394",
+        "name": "Point 395",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4060121,
+          31.1197654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-395",
+        "name": "Point 396",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4076655,
+          31.1185111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-396",
+        "name": "Point 397",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4170197,
+          31.1183927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-397",
+        "name": "Point 398",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4182794,
+          31.1178042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-398",
+        "name": "Point 399",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4256093,
+          31.1240485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-399",
+        "name": "Point 400",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4258023,
+          31.1227153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-400",
+        "name": "Point 401",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4144755,
+          31.1147123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-401",
+        "name": "Point 402",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4110132,
+          31.11404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-402",
+        "name": "Point 403",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4100423,
+          31.1113182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-403",
+        "name": "Point 404",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4102531,
+          31.1076014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-404",
+        "name": "Point 405",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4164515,
+          31.1108478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-405",
+        "name": "Point 406",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4038579,
+          31.1134964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-406",
+        "name": "Point 407",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4019431,
+          31.1095121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-407",
+        "name": "Point 408",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4017624,
+          31.1105888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-408",
+        "name": "Point 409",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3975717,
+          31.109753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-409",
+        "name": "Point 410",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.401487,
+          31.1140772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-410",
+        "name": "Point 411",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4209496,
+          31.102028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-411",
+        "name": "Point 412",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4187116,
+          31.1040739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-412",
+        "name": "Point 413",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4106273,
+          31.1038047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-413",
+        "name": "Point 414",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4060256,
+          31.103417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-414",
+        "name": "Point 415",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4038882,
+          31.1026202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-415",
+        "name": "Point 416",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4054975,
+          31.095653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-416",
+        "name": "Point 417",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4011619,
+          31.0874099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-417",
+        "name": "Point 418",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3924085,
+          31.0993656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-418",
+        "name": "Point 419",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3845889,
+          31.1035292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-419",
+        "name": "Point 420",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3764739,
+          31.1066923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-420",
+        "name": "Point 421",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3776934,
+          31.1033166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-421",
+        "name": "Point 422",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3744811,
+          31.1054809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-422",
+        "name": "Point 423",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3726454,
+          31.1046141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-423",
+        "name": "Point 424",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.37494,
+          31.1019167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-424",
+        "name": "Point 425",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3644937,
+          31.106696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-425",
+        "name": "Point 426",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3621426,
+          31.1060051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-426",
+        "name": "Point 427",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3546742,
+          31.1073903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-427",
+        "name": "Point 428",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4220557,
+          31.0817424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-428",
+        "name": "Point 429",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4241302,
+          31.0819326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-429",
+        "name": "Point 430",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.424564,
+          31.0793925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-430",
+        "name": "Point 431",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4240736,
+          31.0790317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-431",
+        "name": "Point 432",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4221688,
+          31.0770983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-432",
+        "name": "Point 433",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4245137,
+          31.0770229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-433",
+        "name": "Point 434",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4363457,
+          31.089836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-434",
+        "name": "Point 435",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4382631,
+          31.0868528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-435",
+        "name": "Point 436",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4818774,
+          31.0880098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-436",
+        "name": "Point 437",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.485599,
+          31.086012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-437",
+        "name": "Point 438",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4926209,
+          31.0832681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-438",
+        "name": "Point 439",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4925015,
+          31.0826004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-439",
+        "name": "Point 440",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4711753,
+          31.10286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-440",
+        "name": "Point 441",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4559059,
+          31.0957016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-441",
+        "name": "Point 442",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4912841,
+          31.1345037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-442",
+        "name": "Point 443",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4920856,
+          31.1332227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-443",
+        "name": "Point 444",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4755513,
+          31.1525393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-444",
+        "name": "Point 445",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4750106,
+          31.1514845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-445",
+        "name": "Point 446",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.469686,
+          31.1528245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-446",
+        "name": "Point 448",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4642709,
+          31.1506672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-447",
+        "name": "Point 450",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4665067,
+          31.1595639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-448",
+        "name": "Point 3",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4695803,
+          31.1605045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-449",
+        "name": "Point 449",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4539716,
+          31.1581218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-450",
+        "name": "Point 4",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4762208,
+          31.1627807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-451",
+        "name": "Point 447",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4670897,
+          31.1485302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-452",
+        "name": "Point 451",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4406171,
+          31.1701909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-453",
+        "name": "Point 452",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4362732,
+          31.1719556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-454",
+        "name": "Point 453",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4374502,
+          31.1777722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-455",
+        "name": "Point 454",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4343698,
+          31.1816347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-456",
+        "name": "Point 455",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4355188,
+          31.1842371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-457",
+        "name": "Point 456",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4321179,
+          31.1869645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-458",
+        "name": "Point 457",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4330168,
+          31.1878466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-459",
+        "name": "Point 458",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4412018,
+          31.186604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-460",
+        "name": "Point 459",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4428551,
+          31.1890677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-461",
+        "name": "Point 460",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4242408,
+          31.201802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-462",
+        "name": "Point 461",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4353169,
+          31.2008556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-463",
+        "name": "Point 462",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4412073,
+          31.2051959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-464",
+        "name": "Point 463",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4434516,
+          31.2049664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-465",
+        "name": "Point 464",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4321707,
+          31.2076909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-466",
+        "name": "Point 465",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4316696,
+          31.2208213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-467",
+        "name": "Point 466",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4287346,
+          31.261998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-468",
+        "name": "Point 467",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4434356,
+          31.2637646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-704",
+        "name": "Point 705",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0983635,
+          31.8352031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-775",
+        "name": "Point 783",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3091862,
+          31.0074279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-776",
+        "name": "Point 784",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2757593,
+          30.9962659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-777",
+        "name": "Point 785",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2644355,
+          30.9815934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-778",
+        "name": "Point 786",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2374354,
+          31.0001459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-959",
+        "name": "Point 960",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2513871,
+          31.3103839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-960",
+        "name": "CROP BURNING",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0422562,
+          31.204175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-961",
+        "name": "Point 962",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0346998,
+          31.2021663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-962",
+        "name": "Point 963",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.014383,
+          31.212033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-963",
+        "name": "Point 964",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0165895,
+          31.2085804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-964",
+        "name": "Point 965",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0134714,
+          31.2072305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-965",
+        "name": "Point 967",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0090409,
+          31.2062328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-966",
+        "name": "Point 968",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0051104,
+          31.2024236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-967",
+        "name": "Point 969",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0016088,
+          31.1977981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-968",
+        "name": "Point 970",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0034822,
+          31.1983898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-969",
+        "name": "Point 971",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9836036,
+          31.1995988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-970",
+        "name": "Point 972",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9817617,
+          31.1990449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-971",
+        "name": "Point 973",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9744775,
+          31.2001228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-972",
+        "name": "Point 974",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9710891,
+          31.2007144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-973",
+        "name": "Point 975",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9792237,
+          31.1944985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-974",
+        "name": "Point 976",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9713898,
+          31.2032346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-975",
+        "name": "Point 977",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9679367,
+          31.2000631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-976",
+        "name": "Point 978",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9646111,
+          31.2006278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-977",
+        "name": "Point 979",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9637813,
+          31.2001707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-978",
+        "name": "Point 980",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.963071,
+          31.1922478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-979",
+        "name": "Point 981",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.962392,
+          31.1915808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-980",
+        "name": "Point 983",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9592425,
+          31.1867197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-981",
+        "name": "Point 984",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9659564,
+          31.1846702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-982",
+        "name": "Point 985",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9676601,
+          31.1841914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-983",
+        "name": "Point 986",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9684144,
+          31.1846487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-984",
+        "name": "Point 987",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.970577,
+          31.188199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-985",
+        "name": "Point 988",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9732736,
+          31.1867392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-986",
+        "name": "Point 989",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9797989,
+          31.1902195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-987",
+        "name": "Point 990",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9879806,
+          31.1918801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-988",
+        "name": "Point 991",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0010224,
+          31.1931958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-989",
+        "name": "Point 992",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.004197,
+          31.1945243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-990",
+        "name": "Point 993",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0064909,
+          31.1820016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-991",
+        "name": "Point 994",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0078048,
+          31.1839275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-992",
+        "name": "Point 995",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0284533,
+          31.1814663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-993",
+        "name": "Point 996",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0340357,
+          31.1833653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-994",
+        "name": "Point 997",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.047189,
+          31.1785597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-995",
+        "name": "Point 998",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0522119,
+          31.1826859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-996",
+        "name": "Point 999",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0567897,
+          31.1808864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-997",
+        "name": "Point 1000",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0632962,
+          31.1816019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-998",
+        "name": "Point 999",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9431756,
+          31.5338964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-999",
+        "name": "Point 1000",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9489682,
+          31.5379998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1000",
+        "name": "Point 1001",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9540791,
+          31.5373353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1018",
+        "name": "Point 1019",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5374137,
+          31.4915997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1019",
+        "name": "Point 1020",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3073328,
+          31.6692577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1020",
+        "name": "Point 1021",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3480053,
+          31.7232059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1021",
+        "name": "Point 1022",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3507336,
+          31.7215479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1022",
+        "name": "Point 1023",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3546689,
+          31.7209649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1023",
+        "name": "Point 1024",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3529068,
+          31.7250458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1024",
+        "name": "Point 1025",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.355918,
+          31.7258374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1031",
+        "name": "Point 1032",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9525299,
+          31.0826074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1032",
+        "name": "Point 1033",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9517035,
+          31.099816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1033",
+        "name": "Point 1034",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9281877,
+          31.0934544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1034",
+        "name": "Point 1035",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8833283,
+          31.0643229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1035",
+        "name": "Point 1036",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8735939,
+          31.0414472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1036",
+        "name": "Point 1037",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8749392,
+          31.0393191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1037",
+        "name": "Point 1038",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8767623,
+          31.0388557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1038",
+        "name": "Point 1039",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8684994,
+          31.0363497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1039",
+        "name": "Point 1040",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8759111,
+          31.0342484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1040",
+        "name": "Point 1041",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8794126,
+          31.033151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1041",
+        "name": "Point 1042",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8797647,
+          31.0273965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1042",
+        "name": "Point 1043",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8794833,
+          31.0237388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1043",
+        "name": "Point 1044",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8778174,
+          31.0197135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1044",
+        "name": "Point 1045",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8693936,
+          31.0212762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1045",
+        "name": "Point 1046",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8589027,
+          31.0083214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1046",
+        "name": "Point 1047",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8658894,
+          30.9949805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1047",
+        "name": "Point 1048",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8677502,
+          30.9906953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1048",
+        "name": "Point 1049",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8618661,
+          30.9967107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1049",
+        "name": "Point 1050",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8614324,
+          30.9912684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1050",
+        "name": "Point 1051",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8565008,
+          30.9860908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1051",
+        "name": "Point 1052",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.851327,
+          30.9841528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1052",
+        "name": "Point 1053",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8544262,
+          30.9831502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1053",
+        "name": "Point 1054",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8612282,
+          30.9835652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1054",
+        "name": "Point 1055",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8630764,
+          30.9834952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1055",
+        "name": "Point 1056",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8550888,
+          30.9784505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1056",
+        "name": "Point 1057",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8478531,
+          30.9825584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1057",
+        "name": "Point 1058",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8481823,
+          30.9897642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1058",
+        "name": "Point 1059",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8435379,
+          30.9896294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1059",
+        "name": "Point 1060",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8462237,
+          30.9950709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1060",
+        "name": "Point 1061",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8487006,
+          30.9940252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1061",
+        "name": "Point 1062",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8422256,
+          30.9937287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1062",
+        "name": "Point 1063",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8444908,
+          30.9996631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1063",
+        "name": "Point 1064",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8429883,
+          30.9961489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1064",
+        "name": "Point 1065",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8423722,
+          30.9996631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1065",
+        "name": "Point 1066",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8523236,
+          31.0002021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1066",
+        "name": "Point 1067",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8575605,
+          30.9967532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1067",
+        "name": "Point 1068",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8558798,
+          30.9733284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1068",
+        "name": "Point 1069",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8559552,
+          30.9725089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1069",
+        "name": "Point 1070",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8583944,
+          30.9730912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1070",
+        "name": "Point 1071",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8572754,
+          30.9720183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1071",
+        "name": "Point 1072",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8533066,
+          30.9654476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1072",
+        "name": "Point 1073",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8568961,
+          30.9662025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1073",
+        "name": "Point 1074",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8541311,
+          30.9455681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1074",
+        "name": "Point 1075",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.74458,
+          30.9183436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1075",
+        "name": "Point 1076",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7045711,
+          30.9077124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1076",
+        "name": "Point 1077",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6507324,
+          30.890681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1452",
+        "name": "Point 1454",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1942604,
+          31.9338201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1453",
+        "name": "Point 1455",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1920397,
+          31.9402068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1454",
+        "name": "Point 1456",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.21912,
+          31.9083774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1455",
+        "name": "Point 1457",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2257075,
+          31.9091606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1456",
+        "name": "Point 1458",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2258577,
+          31.9075941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1457",
+        "name": "Point 1459",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.225922,
+          31.9060093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1458",
+        "name": "Point 1460",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2269949,
+          31.9091788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1459",
+        "name": "Point 1461",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2162502,
+          31.9005789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1460",
+        "name": "Point 1462",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2301213,
+          31.9393785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1461",
+        "name": "Point 1463",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2265594,
+          31.9457515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1462",
+        "name": "Point 1464",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2273318,
+          31.9434573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1467",
+        "name": "Point 1469",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2250573,
+          31.9448775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1489",
+        "name": "Point 1491",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0321412,
+          31.7117769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1490",
+        "name": "Point 1492",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0337291,
+          31.7118134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1491",
+        "name": "Point 1493",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0347376,
+          31.7124706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1492",
+        "name": "Point 1494",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0368619,
+          31.712361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1493",
+        "name": "Point 1495",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0373769,
+          31.7123063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1494",
+        "name": "Point 1496",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0407028,
+          31.7102435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1495",
+        "name": "Point 1497",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0420332,
+          31.7097507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1496",
+        "name": "Point 1498",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0426555,
+          31.7120142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1497",
+        "name": "Point 1499",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0462175,
+          31.7097324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1498",
+        "name": "Point 1500",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0385356,
+          31.7080895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1499",
+        "name": "Point 1501",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.03654,
+          31.7097507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1500",
+        "name": "Point 1502",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0358534,
+          31.7093856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1501",
+        "name": "Point 1503",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0354457,
+          31.705333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1502",
+        "name": "Point 1504",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.050273,
+          31.7088014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1503",
+        "name": "Point 1505",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0592852,
+          31.7062275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1504",
+        "name": "Point 1506",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.058341,
+          31.705333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1505",
+        "name": "Point 1507",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0588131,
+          31.7044202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1506",
+        "name": "Point 1508",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0091234,
+          31.7551411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1507",
+        "name": "Point 1509",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9558237,
+          31.7589414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1508",
+        "name": "Point 1510",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9543217,
+          31.7588319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1509",
+        "name": "Point 1511",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9543431,
+          31.7611308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1510",
+        "name": "Point 1512",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9472192,
+          31.7720318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1511",
+        "name": "Point 1513",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9449876,
+          31.7754612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1512",
+        "name": "Point 1514",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9462321,
+          31.7756801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1513",
+        "name": "Point 1515",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9466184,
+          31.7768111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1514",
+        "name": "Point 1516",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8913918,
+          31.8346144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paqi-1515",
+        "name": "Point 1517",
+        "source": "paqi",
+        "role": "ground_truth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9003182,
+          31.8346326
+        ]
+      }
+    }
+  ]
+}

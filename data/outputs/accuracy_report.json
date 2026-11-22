@@ -1,0 +1,12 @@
+{
+  "matched_candidates": 2,
+  "matched_gt": 2,
+  "precision_vs_gt": 0.02564102564102564,
+  "recall_vs_gt": 0.003289473684210526,
+  "gt_count": 608,
+  "candidate_count": 78,
+  "match_radius_m": 500.0,
+  "threshold": 0.55,
+  "raw_hits": 78,
+  "candidates_after_nms": 78
+}

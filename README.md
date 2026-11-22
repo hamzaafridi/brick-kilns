@@ -1,40 +1,40 @@
 # brick-kilns
-This is a long due project that I discussed with Abid Omar founder of Pakistan Air Quality in the start of previous year. I am set out to complete it this time.   
 
-## Stack  
-PYTHON  
+Detect brick kilns around **Lahore** (plus Kasur, Sheikhupura, Nankana Sahib) from **open Sentinel-2** imagery, score against **PAQI** ground truth, and explore results on an interactive map.
 
-## Research articles  
-This is excrept from the email I recieved from Abid Omar, so I am pasting it as it is:  
-- http://bit.ly/PAQI_GovPunjab_brickkilns is the brick kiln census dashboard by the Urban Unit, but I found a lot of discrepancies in my random look through their data.
-- http://bit.ly/PAQI_brickkilns is the effort by PAQI which serves two purposes, (1) mapping and (2) engaging the community to become aware about the huge number of kilns in their area
-- http://med.stanford.edu/news/all-news/2017/09/researchers-team-up-to-reduce-brick-kiln-pollution.html I emailed these guys, and I still - wait for their response, but this is perhaps out best bet in getting a way to automate the mapping process.
-- http://www.terrapattern.com/  is also great, I've emailed them also, but they don't have the imagery currently except for a few cities.
-- https://github.com/Microsoft/Earth-Lens another interested project that is applicable, but I haven't investigated it further.
-- https://www.zooniverse.org/projects/ezzjcw/slavery-from-space this project utilized a crowd-sourcing model too
-- https://search.earthdata.nasa.gov/search for NASA
+## Quick start
 
-## Strategy  
-- [ ] Using the open source government repository locate kilns and extract image.
-- [ ] Will have to look at the image.
-- [ ] Will make a classifier.
-- [ ] Get historical satellite image
-- [ ] Identify kilns.  
+```bash
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+python scripts/run_pipeline.py --steps all
+python -m http.server 8000 --directory web
+```
 
-## Things to do  
-As it is my first time to work on sattelite images I will be breaking it down and approching the problem step by step:  
-- [ ] Best source of latest sattelite images
-- [ ] Get satelltie images for given lat long
-- [ ] From the Punjab government data extract all brick kilns images and store it  
-- [ ] Manually clean the images and Build a classifier  
-- [ ] Algorithm to scan area and find brick kilns   
+Open [http://localhost:8000](http://localhost:8000).
 
-## Research   
-### Google Earth Engine  
-It is not an free tool. In order to use I need to signup which I have and will wait for google reply.  
-### Sentinel Hub  
-As Abid suggested I was looking at Sentinal Hub which has a neat library in PYTHON but turns out it is commercial and not for everyday use.  
-### PEPS  
-This is provides sentinal products with all the search functionalities, looks promising. 
+## What you get
 
-I will keep on adding more things to it. If you would like to contribute to this do send me an email at me@hamzaafridi.com
+| Piece | Location |
+| --- | --- |
+| Spec | [`docs/SPEC.md`](docs/SPEC.md) |
+| Research notes | [`docs/research/`](docs/research/) |
+| AOI | `data/aoi/lahore_pilot.geojson` |
+| PAQI GT (AOI) | `data/ground_truth/paqi_lahore_aoi.geojson` |
+| Model | `data/models/kiln_rf.joblib` |
+| Candidates | `data/outputs/candidates.geojson` |
+| Accuracy report | `data/outputs/accuracy_report.json` |
+| Map | `web/index.html` |
+
+## Stack
+
+Python · Element 84 Earth Search STAC · AWS Open Data Sentinel-2 COGs · scikit-learn · Leaflet
+
+## Constraints
+
+Open data + open tools only (no paid imagery APIs). Urban Unit census has no public point dump; v1 uses PAQI crowd-sourced points as available ground truth.
+
+## Wayfinding
+
+Planning map: [Brick kiln detector spec (Lahore pilot)](https://github.com/hamzaafridi/brick-kilns/issues/1)

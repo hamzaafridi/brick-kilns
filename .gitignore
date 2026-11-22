@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Local env / pipeline caches
+.venv/
+data/chips/
+*.tif
+*.tiff
+.DS_Store
+
+# Keep outputs and models that the map needs; ignore bulky intermediates
+# (candidates/geojson and metrics are intentionally tracked when generated)
